@@ -1,5 +1,5 @@
 def main():
-    s=0
+    S=0
     print ("argument = ", end='')
     n= int(input())
     if (n<2):
@@ -12,6 +12,6 @@ def main():
         for i in range(1, 3):
             print(i,"er argument est: ", end='')
             a= int(input())
-            s= a+s
+            S= a+S
         print(" la somme vaut : ", s) 
 main()
