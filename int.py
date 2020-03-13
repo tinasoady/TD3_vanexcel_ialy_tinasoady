@@ -1,1 +1,1 @@
-krkr zan
+from pytest import main
